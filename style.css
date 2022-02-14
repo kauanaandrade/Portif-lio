@@ -410,6 +410,7 @@ button:active
 
 footer
 {
+	background-color: #b3b2b2;
 	height: 200px;
 	display: flex;
 	flex-direction: column;
@@ -434,9 +435,15 @@ footer p:nth-child(1)
 footer p:nth-child(2)
 {
 	font-size: 16px;
-	color: #7e7d7d;
+	color: #272424;
 	width: 500px;
 	text-align: center;
+}
+
+.git{
+	/* margin-top: -300vw; */
+	margin-top: -355px;
+	margin-left: 100px;
 }
 
 .copy
